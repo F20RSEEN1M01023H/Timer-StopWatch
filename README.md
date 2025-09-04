@@ -49,11 +49,11 @@ App will start at http://localhost:5173/ (if using Vite).
 
 ### Stopwatch Mode
 
-![Stopwatch Screenshot](./assets/stopwatch.png)
+![Stopwatch Screenshot](./src/assets/stopwatch.png)
 
 ### Timer Mode
 
-![Timer Screenshot](./assets/timer.png)
+![Timer Screenshot](./src/assets/timer.png)
 
 🎯 Learning Goals
 
