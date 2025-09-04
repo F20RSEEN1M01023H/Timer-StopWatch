@@ -1,4 +1,4 @@
-##⏱️ Timer & Stopwatch App (React + Tailwind)
+⏱️ Timer & Stopwatch App (React + Tailwind)
 
 A simple and elegant Timer & Stopwatch app built with React and styled using Tailwind CSS.
 This project is created for practicing React hooks like useState, useEffect, and useRef.
