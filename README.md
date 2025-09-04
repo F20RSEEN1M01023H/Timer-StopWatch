@@ -47,9 +47,13 @@ npm run dev
 
 App will start at http://localhost:5173/ (if using Vite).
 
-📸 Screenshots
+### Stopwatch Mode
 
-(You can add screenshots of Stopwatch mode and Timer mode here)
+![Stopwatch Screenshot](./assets/stopwatch.png)
+
+### Timer Mode
+
+![Timer Screenshot](./assets/timer.png)
 
 🎯 Learning Goals
 
