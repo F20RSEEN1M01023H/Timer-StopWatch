@@ -1,4 +1,4 @@
-###⏱️ Timer & Stopwatch App (React + Tailwind)
+##⏱️ Timer & Stopwatch App (React + Tailwind)
 
 A simple and elegant Timer & Stopwatch app built with React and styled using Tailwind CSS.
 This project is created for practicing React hooks like useState, useEffect, and useRef.
@@ -34,7 +34,7 @@ src/
 
 Clone this repo:
 
-git clone https://github.com/your-username/timer-stopwatch.git
+git clone https://github.com/F20RSEEN1M01023H/Timer-StopWatch.git
 cd timer-stopwatch
 
 Install dependencies:
@@ -77,6 +77,6 @@ Save last timer duration in LocalStorage 💾
 
 👨‍💻 Author
 
-Hammad Ashraf 🚀
+Engr.Hammad Ashraf 🚀
 
 Future Full-Stack MERN Developer
