@@ -1,12 +1,78 @@
-# React + Vite
+⏱️ Timer & Stopwatch App (React + Tailwind)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant Timer & Stopwatch app built with React and styled using Tailwind CSS.
+This project is created for practicing React hooks like useState, useEffect, and useRef.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Dual modes: Stopwatch and Timer
 
-## Expanding the ESLint configuration
+✅ Start, Pause, and Reset functionality
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Timer input (minutes & seconds)
+
+✅ Clean UI with Tailwind CSS
+
+✅ Interval cleanup using useEffect
+
+✅ Responsive and modern design
+
+🛠️ Technologies Used
+
+React (Hooks: useState, useEffect, useRef)
+
+Tailwind CSS for styling
+
+📂 Project Structure
+src/
+├── components/
+│ └── TimerStopWatch.jsx # Main component
+├── App.jsx # Entry point
+└── index.js # React DOM render
+
+⚡ Installation & Setup
+
+Clone this repo:
+
+git clone https://github.com/your-username/timer-stopwatch.git
+cd timer-stopwatch
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+App will start at http://localhost:5173/ (if using Vite).
+
+📸 Screenshots
+
+(You can add screenshots of Stopwatch mode and Timer mode here)
+
+🎯 Learning Goals
+
+This project was built to practice:
+
+Using useState for managing app state
+
+Using useRef for storing interval IDs and timestamps
+
+Using useEffect for side effects (intervals, cleanup)
+
+Tailwind for building a responsive UI
+
+📌 Future Improvements
+
+Add sound when the timer ends ⏰
+
+Add lap functionality in Stopwatch 🏁
+
+Save last timer duration in LocalStorage 💾
+
+👨‍💻 Author
+
+Hammad Ashraf 🚀
+
+Future Full-Stack MERN Developer
